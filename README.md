@@ -1,2 +1,2 @@
-# AM-SR_INM705_Coursework
+# INM705_Coursework
  
