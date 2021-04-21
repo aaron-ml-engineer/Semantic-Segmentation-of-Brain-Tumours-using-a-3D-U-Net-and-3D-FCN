@@ -5,15 +5,11 @@ import numpy as np
 import sys
 import torch
 import torchvision
-import numpy as np
 from torch.utils.data import DataLoader
 import torchvision.transforms as transforms
 from torchvision.utils import save_image
 import torch.utils.data as data
 import SimpleITK as sitk
-
-
-
 class BratsDataset(data.Dataset):
     def __init__ (self, img_dir, label_dir, seed=0):
         self.img_dir = img_dir
