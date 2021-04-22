@@ -1,0 +1,13 @@
+pandas==1.2.1
+ipywidgets==7.6.3
+numpy==1.19.5
+nibabel==3.2.1
+torchvision==0.8.2+cu110
+itk_segmentation==5.1.2
+itkwidgets==0.12.1
+MedPy==0.4.0
+tqdm==4.56.0
+matplotlib==3.3.3
+torch==1.7.1+cu110
+itk==5.2.0
+SimpleITK==2.0.2
