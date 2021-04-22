@@ -34,10 +34,18 @@ al., 2019). These data contain a large amount of pixel-labelled MRI volumes for 
 155 pixels and include the T1-weighted, T2-weighted, T1-Gd and FLAIR MRI modalities. In this case, there are 155 slices per MRI volume and each slice has dimensions 
 240 x 240 pixels. The labels for the tumours are labelled according to their tumour region type e.g. edema, non-enhancing and enhancing tumour.
 
-Trained model checkpoints can be downloaded from:
-https://cityuni-my.sharepoint.com/:f:/g/personal/aaron_mir_city_ac_uk/Es1SvFWKU6hKqyIZn2KGOIcBPhTG0LJKo72v17x_BILrCA?e=1JzN0R
+Data files can be downloaded from:
+ https://cityuni-my.sharepoint.com/:f:/g/personal/aaron_mir_city_ac_uk/EpdC1o5v_MZOq_MqtDHkslwBj-GZADIWT1ivSjQpjziVCQ?e=20UnpB
 
-Files:
+Necessary Folders:
+pre-processed_data/train
+train
+train_labels
+
+Trained model checkpoints can be downloaded from:
+ https://cityuni-my.sharepoint.com/:f:/g/personal/aaron_mir_city_ac_uk/Es1SvFWKU6hKqyIZn2KGOIcBPhTG0LJKo72v17x_BILrCA?e=1JzN0R
+
+Necessary Files:
 trainedUNET.pth.tar
 trainedFCN.pth.tar
 
