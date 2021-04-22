@@ -38,16 +38,16 @@ Data files can be downloaded from:
  https://cityuni-my.sharepoint.com/:f:/g/personal/aaron_mir_city_ac_uk/EpdC1o5v_MZOq_MqtDHkslwBj-GZADIWT1ivSjQpjziVCQ?e=20UnpB
 
 Necessary Folders:
-pre-processed_data/train
-train
-train_labels
+ - pre-processed_data/train
+ - train
+ - train_labels
 
 Trained model checkpoints can be downloaded from:
  https://cityuni-my.sharepoint.com/:f:/g/personal/aaron_mir_city_ac_uk/Es1SvFWKU6hKqyIZn2KGOIcBPhTG0LJKo72v17x_BILrCA?e=1JzN0R
 
 Necessary Files:
-trainedUNET.pth.tar
-trainedFCN.pth.tar
+ - trainedUNET.pth.tar
+ - trainedFCN.pth.tar
 
 To run the code:
  - import the necessary libraries and modules
