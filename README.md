@@ -1,6 +1,6 @@
 # INM705_Coursework
 
-## Semantic Segmentation of Brain Tumours using a 3D UNet and A Fully Convolutional Network
+## Semantic Segmentation of Brain Tumours using a 3D UNet and A 3D Fully Convolutional Network
 
 ### Dependencies:
 
